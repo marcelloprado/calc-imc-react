@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/marcelloprado/calc-imc-react/static/css/main.21a3bd33.css",
+    "main.js": "/marcelloprado/calc-imc-react/static/js/main.81bfe5e0.js",
+    "static/js/787.10a56187.chunk.js": "/marcelloprado/calc-imc-react/static/js/787.10a56187.chunk.js",
+    "static/media/powered.png": "/marcelloprado/calc-imc-react/static/media/powered.31688c4f015d2f42e203.png",
+    "index.html": "/marcelloprado/calc-imc-react/index.html",
+    "main.21a3bd33.css.map": "/marcelloprado/calc-imc-react/static/css/main.21a3bd33.css.map",
+    "main.81bfe5e0.js.map": "/marcelloprado/calc-imc-react/static/js/main.81bfe5e0.js.map",
+    "787.10a56187.chunk.js.map": "/marcelloprado/calc-imc-react/static/js/787.10a56187.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21a3bd33.css",
+    "static/js/main.81bfe5e0.js"
+  ]
+}
